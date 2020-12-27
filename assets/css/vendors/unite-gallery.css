@@ -101,9 +101,10 @@
 
 .ug-gallery-wrapper .ug-preloader-trans{
 	display:block;
-	height:35px;
-	width:32px;
-	height:32px;
+	height:50px;
+	max-width:70px;
+	/* height:32px; */
+	background-size: auto 50px;
 	background-image:url('../images/loader_skype_trans.gif');
 	background-repeat:no-repeat;
 }
