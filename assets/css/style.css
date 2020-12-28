@@ -315,7 +315,7 @@ p {
 .ms-logo {
   position: relative;
   z-index: 7;
-  height: 80px;
+  height: 70px;
 }
 .logo-dark,
 .logo-light {
@@ -1396,7 +1396,7 @@ footer {
     width: 0;
   }
   .ms-container {
-    padding-top: 6em;
+    padding-top: 8em;
     padding-bottom: 3em;
   }
   .ms-container.home-slider {
